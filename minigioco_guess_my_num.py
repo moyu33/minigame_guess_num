@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 #importazione moduli random & time
 import random
 import time
